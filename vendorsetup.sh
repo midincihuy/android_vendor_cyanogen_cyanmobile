@@ -1,0 +1,9 @@
+add_lunch_combo cyanogen_beni-eng
+add_lunch_combo cyanogen_blade-eng
+add_lunch_combo cyanogen_callisto-eng
+add_lunch_combo cyanogen_galaxy5-eng
+add_lunch_combo cyanogen_gio-eng
+add_lunch_combo cyanogen_generic-eng
+add_lunch_combo cyanogen_jena-eng
+add_lunch_combo cyanogen_tass-eng
+add_lunch_combo cyanogen_u8510-eng
